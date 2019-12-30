@@ -100,6 +100,14 @@ public class AVLTree {
       return tree;
    }
 
+   public Node minValueNode(Node tree) {
+      Node current = tree;
+      while(current.left != null) {
+         current = current.left;
+      }
+      return current;
+   }
+
    public void inorder(Node tree) {
       if(tree != null) {
          inorder(tree.left);
