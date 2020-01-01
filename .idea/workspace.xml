@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ed0d0e-d422-40e0-96de-f3f32e3a72d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sorting/MergeSort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/MergeSort/MergeSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpeedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/Heap/MinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/Heap/MinHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/HeapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/HeapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Heap/MinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heap/MinHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/sorting/MergeSort/MergeSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/MergeSort/MergeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSortTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.MergeSortTest">
+  <component name="RunManager" selected="Application.SpeedTest">
     <configuration name="AVLTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AVLTest" />
       <module name="DataStructures" />
@@ -65,11 +62,11 @@
       </method>
     </configuration>
     <configuration name="MergeSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.MergeSort.MergeSortTest" />
+      <option name="MAIN_CLASS_NAME" value="MergeSortTest" />
       <module name="DataStructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sorting.MergeSort.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,8 +74,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpeedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpeedTest" />
+      <module name="DataStructures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpeedTest" />
         <item itemvalue="Application.MergeSortTest" />
         <item itemvalue="Application.HeapTest" />
         <item itemvalue="Application.AVLTest" />
@@ -110,7 +115,7 @@
       <workItem from="1577710613280" duration="6737000" />
       <workItem from="1577796106620" duration="4797000" />
       <workItem from="1577873786754" duration="1814000" />
-      <workItem from="1577883589881" duration="5179000" />
+      <workItem from="1577883589881" duration="6600000" />
     </task>
     <servers />
   </component>
@@ -118,22 +123,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="654" key="GridCell.Tab.0.bottom" timestamp="1577894732309">
+    <state width="1638" height="288" key="GridCell.Tab.0.bottom" timestamp="1577897022415">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="654" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577894732309" />
-    <state width="1638" height="654" key="GridCell.Tab.0.center" timestamp="1577894732308">
+    <state width="1638" height="288" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577897022415" />
+    <state width="1638" height="288" key="GridCell.Tab.0.center" timestamp="1577897022414">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="654" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577894732308" />
-    <state width="1638" height="654" key="GridCell.Tab.0.left" timestamp="1577894732307">
+    <state width="1638" height="288" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577897022414" />
+    <state width="1638" height="288" key="GridCell.Tab.0.left" timestamp="1577897022413">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="654" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577894732307" />
-    <state width="1638" height="654" key="GridCell.Tab.0.right" timestamp="1577894732308">
+    <state width="1638" height="288" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577897022413" />
+    <state width="1638" height="288" key="GridCell.Tab.0.right" timestamp="1577897022414">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="654" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577894732308" />
+    <state width="1638" height="288" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577897022414" />
     <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1577883589767">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

@@ -1,4 +1,4 @@
-package sorting.MergeSort;
+import sorting.MergeSort.MergeSort;
 
 public class MergeSortTest {
    public static void main(String[] args) {
