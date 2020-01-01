@@ -1,3 +1,5 @@
+package tests;
+
 import heap.MinHeap;
 
 public class HeapTest {

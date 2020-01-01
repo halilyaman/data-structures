@@ -1,3 +1,5 @@
+package tests;
+
 import AVL.AVLTree;
 
 public class AVLTest {
