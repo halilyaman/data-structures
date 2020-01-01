@@ -1,6 +1,6 @@
 import AVL.AVLTree;
 
-public class Test {
+public class AVLTest {
    public static void main(String[] args) {
       AVLTree tree = new AVLTree();
 
