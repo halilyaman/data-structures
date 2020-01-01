@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ed0d0e-d422-40e0-96de-f3f32e3a72d3" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/src/SpeedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructures/sorting/MergeSort/MergeSortTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sorting/MergeSort/MergeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSortTest.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/SpeedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpeedTest.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
